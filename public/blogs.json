@@ -1,0 +1,54 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/SfsKKvr/Rectangle-3.png",
+        "title": "Ideal for statistical analysis, data visualization, and machine learning.",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/XSVbcwD/toa-heftiba-O3ymv-T7-Wf9-U-unsplash.jpg",
+        "posted_date": "2024-06-01",
+        "reading_time": 5,
+        "hashtag": ["#adventure",
+                    "#StudySmart"]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/jwcMC2K/Rectangle-2.png",
+        "title": "Easy-to-learn, versatile, and widely used for web development, data science, and automation",
+        "author": "Jane Doe",
+        "author_img": "https://i.ibb.co/CnBrZQs/ali-morshedlou-WMD64t-Mfc4k-unsplash.jpg",
+        "posted_date": "2024-06-05",
+        "reading_time": 8,
+        "hashtag": ["#technology", "#KnowledgeIsPower"]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/D9ZQZ3R/Rectangle-2-4.png",
+        "title": "Powerful, low-level language with applications in game development and systems programming",
+        "author": "Emily Johnson",
+        "author_img": "https://i.ibb.co/DtS7shN/aiony-haust-3-TLl-97-HNJo-unsplash.jpg",
+        "posted_date": "2024-06-10",
+        "reading_time": 6,
+        "hashtag": ["#food", "#LearnAndGrow"]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/NTKSC2z/Rectangle-2-6.png",
+        "title": "Ubiquitous for both frontend and backend web development",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co/F6VwNBd/kamran-ch-pq-IC34i-y-FU-unsplash.jpg",
+        "posted_date": "2024-06-11",
+        "reading_time": 7,
+        "hashtag": ["#history", "#EducationMatters"]
+    },
+    {
+        "id": "5",
+        "cover": "https://i.ibb.co/HnwSz1V/Rectangle-2-3.png",
+        "title": "Robust, object-oriented language for desktop and Android applications",
+        "author": "Sarah Davis",
+        "author_img": "https://i.ibb.co/hdHcNhG/cody-scott-milewski-GWn5-BC7-GRYI-unsplash.jpg",
+        "posted_date": "2024-06-09",
+        "reading_time": 4,
+        "hashtag": ["#fitness", "#SuccessIsEarned"]
+    }
+]
+
